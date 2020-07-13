@@ -1,0 +1,13 @@
+C:\Users\allen\Desktop\CSharp\Exercises\CharacterInput\bin\Debug\netcoreapp3.1\CharacterInput.exe
+C:\Users\allen\Desktop\CSharp\Exercises\CharacterInput\bin\Debug\netcoreapp3.1\CharacterInput.deps.json
+C:\Users\allen\Desktop\CSharp\Exercises\CharacterInput\bin\Debug\netcoreapp3.1\CharacterInput.runtimeconfig.json
+C:\Users\allen\Desktop\CSharp\Exercises\CharacterInput\bin\Debug\netcoreapp3.1\CharacterInput.runtimeconfig.dev.json
+C:\Users\allen\Desktop\CSharp\Exercises\CharacterInput\bin\Debug\netcoreapp3.1\CharacterInput.dll
+C:\Users\allen\Desktop\CSharp\Exercises\CharacterInput\bin\Debug\netcoreapp3.1\CharacterInput.pdb
+C:\Users\allen\Desktop\CSharp\Exercises\CharacterInput\obj\Debug\netcoreapp3.1\CharacterInput.AssemblyInfoInputs.cache
+C:\Users\allen\Desktop\CSharp\Exercises\CharacterInput\obj\Debug\netcoreapp3.1\CharacterInput.AssemblyInfo.cs
+C:\Users\allen\Desktop\CSharp\Exercises\CharacterInput\obj\Debug\netcoreapp3.1\CharacterInput.csproj.CoreCompileInputs.cache
+C:\Users\allen\Desktop\CSharp\Exercises\CharacterInput\obj\Debug\netcoreapp3.1\CharacterInput.dll
+C:\Users\allen\Desktop\CSharp\Exercises\CharacterInput\obj\Debug\netcoreapp3.1\CharacterInput.pdb
+C:\Users\allen\Desktop\CSharp\Exercises\CharacterInput\obj\Debug\netcoreapp3.1\CharacterInput.genruntimeconfig.cache
+C:\Users\allen\Desktop\CSharp\Exercises\CharacterInput\obj\Debug\netcoreapp3.1\CharacterInput.csprojAssemblyReference.cache

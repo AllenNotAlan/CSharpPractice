@@ -1,0 +1,13 @@
+C:\Users\allen\Desktop\CSharp\Exercises\ListLessThanTen\bin\Debug\netcoreapp3.1\ListLessThanTen.exe
+C:\Users\allen\Desktop\CSharp\Exercises\ListLessThanTen\bin\Debug\netcoreapp3.1\ListLessThanTen.deps.json
+C:\Users\allen\Desktop\CSharp\Exercises\ListLessThanTen\bin\Debug\netcoreapp3.1\ListLessThanTen.runtimeconfig.json
+C:\Users\allen\Desktop\CSharp\Exercises\ListLessThanTen\bin\Debug\netcoreapp3.1\ListLessThanTen.runtimeconfig.dev.json
+C:\Users\allen\Desktop\CSharp\Exercises\ListLessThanTen\bin\Debug\netcoreapp3.1\ListLessThanTen.dll
+C:\Users\allen\Desktop\CSharp\Exercises\ListLessThanTen\bin\Debug\netcoreapp3.1\ListLessThanTen.pdb
+C:\Users\allen\Desktop\CSharp\Exercises\ListLessThanTen\obj\Debug\netcoreapp3.1\ListLessThanTen.csprojAssemblyReference.cache
+C:\Users\allen\Desktop\CSharp\Exercises\ListLessThanTen\obj\Debug\netcoreapp3.1\ListLessThanTen.AssemblyInfoInputs.cache
+C:\Users\allen\Desktop\CSharp\Exercises\ListLessThanTen\obj\Debug\netcoreapp3.1\ListLessThanTen.AssemblyInfo.cs
+C:\Users\allen\Desktop\CSharp\Exercises\ListLessThanTen\obj\Debug\netcoreapp3.1\ListLessThanTen.csproj.CoreCompileInputs.cache
+C:\Users\allen\Desktop\CSharp\Exercises\ListLessThanTen\obj\Debug\netcoreapp3.1\ListLessThanTen.dll
+C:\Users\allen\Desktop\CSharp\Exercises\ListLessThanTen\obj\Debug\netcoreapp3.1\ListLessThanTen.pdb
+C:\Users\allen\Desktop\CSharp\Exercises\ListLessThanTen\obj\Debug\netcoreapp3.1\ListLessThanTen.genruntimeconfig.cache
