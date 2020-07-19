@@ -1,0 +1,13 @@
+C:\Users\allen\Desktop\CSharp\Exercises\ListOverlap\bin\Debug\netcoreapp3.1\ListOverlap.exe
+C:\Users\allen\Desktop\CSharp\Exercises\ListOverlap\bin\Debug\netcoreapp3.1\ListOverlap.deps.json
+C:\Users\allen\Desktop\CSharp\Exercises\ListOverlap\bin\Debug\netcoreapp3.1\ListOverlap.runtimeconfig.json
+C:\Users\allen\Desktop\CSharp\Exercises\ListOverlap\bin\Debug\netcoreapp3.1\ListOverlap.runtimeconfig.dev.json
+C:\Users\allen\Desktop\CSharp\Exercises\ListOverlap\bin\Debug\netcoreapp3.1\ListOverlap.dll
+C:\Users\allen\Desktop\CSharp\Exercises\ListOverlap\bin\Debug\netcoreapp3.1\ListOverlap.pdb
+C:\Users\allen\Desktop\CSharp\Exercises\ListOverlap\obj\Debug\netcoreapp3.1\ListOverlap.csprojAssemblyReference.cache
+C:\Users\allen\Desktop\CSharp\Exercises\ListOverlap\obj\Debug\netcoreapp3.1\ListOverlap.AssemblyInfoInputs.cache
+C:\Users\allen\Desktop\CSharp\Exercises\ListOverlap\obj\Debug\netcoreapp3.1\ListOverlap.AssemblyInfo.cs
+C:\Users\allen\Desktop\CSharp\Exercises\ListOverlap\obj\Debug\netcoreapp3.1\ListOverlap.csproj.CoreCompileInputs.cache
+C:\Users\allen\Desktop\CSharp\Exercises\ListOverlap\obj\Debug\netcoreapp3.1\ListOverlap.dll
+C:\Users\allen\Desktop\CSharp\Exercises\ListOverlap\obj\Debug\netcoreapp3.1\ListOverlap.pdb
+C:\Users\allen\Desktop\CSharp\Exercises\ListOverlap\obj\Debug\netcoreapp3.1\ListOverlap.genruntimeconfig.cache
