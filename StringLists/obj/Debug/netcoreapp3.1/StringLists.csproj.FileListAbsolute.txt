@@ -1,0 +1,13 @@
+C:\Users\allen\Desktop\CSharp\Exercises\StringLists\obj\Debug\netcoreapp3.1\StringLists.csprojAssemblyReference.cache
+C:\Users\allen\Desktop\CSharp\Exercises\StringLists\obj\Debug\netcoreapp3.1\StringLists.AssemblyInfoInputs.cache
+C:\Users\allen\Desktop\CSharp\Exercises\StringLists\obj\Debug\netcoreapp3.1\StringLists.AssemblyInfo.cs
+C:\Users\allen\Desktop\CSharp\Exercises\StringLists\obj\Debug\netcoreapp3.1\StringLists.csproj.CoreCompileInputs.cache
+C:\Users\allen\Desktop\CSharp\Exercises\StringLists\bin\Debug\netcoreapp3.1\StringLists.exe
+C:\Users\allen\Desktop\CSharp\Exercises\StringLists\bin\Debug\netcoreapp3.1\StringLists.deps.json
+C:\Users\allen\Desktop\CSharp\Exercises\StringLists\bin\Debug\netcoreapp3.1\StringLists.runtimeconfig.json
+C:\Users\allen\Desktop\CSharp\Exercises\StringLists\bin\Debug\netcoreapp3.1\StringLists.runtimeconfig.dev.json
+C:\Users\allen\Desktop\CSharp\Exercises\StringLists\bin\Debug\netcoreapp3.1\StringLists.dll
+C:\Users\allen\Desktop\CSharp\Exercises\StringLists\bin\Debug\netcoreapp3.1\StringLists.pdb
+C:\Users\allen\Desktop\CSharp\Exercises\StringLists\obj\Debug\netcoreapp3.1\StringLists.dll
+C:\Users\allen\Desktop\CSharp\Exercises\StringLists\obj\Debug\netcoreapp3.1\StringLists.pdb
+C:\Users\allen\Desktop\CSharp\Exercises\StringLists\obj\Debug\netcoreapp3.1\StringLists.genruntimeconfig.cache
