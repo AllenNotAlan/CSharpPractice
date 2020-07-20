@@ -17,52 +17,61 @@ namespace RockPaperScissors
         static void game()
         {
             bool isWinner = false;
-            while (isWinner == false)
+            while (true)
             {
                 userInputPrompt();
                 Console.WriteLine("Player one:");
-                string userOneInput = Console.ReadLine();
+                string userOneInput = Console.ReadLine().ToLowerInvariant();
                 Console.WriteLine("Player two:");
-                string userTwoInput = Console.ReadLine();
+                string userTwoInput = Console.ReadLine().ToLowerInvariant();
 
                 if (userOneInput == "rock" && userTwoInput == "scissors")
                 {
                     Console.WriteLine("Player 1 wins");
+                    isWinner = true;
                 }
                 else if (userOneInput == "rock" && userTwoInput == "paper")
                 {
                     Console.WriteLine("Player 2 wins");
+                    isWinner = true;
                 }
                 else if (userOneInput == "scissors" && userTwoInput == "rock")
                 {
                     Console.WriteLine("Player 2 wins");
+                    isWinner = true;
                 }
                 else if (userOneInput == "scissors" && userTwoInput == "paper")
                 {
                     Console.WriteLine("Player 1 wins");
+                    isWinner = true;
                 }
                 else if (userOneInput == "paper" && userTwoInput == "rock")
                 {
                     Console.WriteLine("Player 1 wins");
+                    isWinner = true;
                 }
                 else if (userOneInput == "paper" && userTwoInput == "scissors")
                 {
                     Console.WriteLine("Player 2 wins");
+                    isWinner = true;
                 }
                 else
                 {
                     Console.WriteLine("Draw. Play again.");
                 }
 
-                Console.WriteLine("Play again? Enter Y or N: ");
-                string rematch = Console.ReadLine();
-                if (rematch != "N")
+                if (isWinner != false)
                 {
-                    continue;
-                }
-                else
-                {
-                    break;
+                    Console.WriteLine("Play again? Enter Y or N: ");
+                    string rematch = Console.ReadLine();
+                    if (rematch != "N")
+                    {
+                        continue;
+                    }
+                    else
+                    {
+                        break;
+                    }
                 }
 
             }
