@@ -35,7 +35,7 @@ namespace StringLists
 
             String reversedString = new string(reversedArr);
 
-            if(reversedString == s)
+            if (reversedString.Equals(s, StringComparison.InvariantCultureIgnoreCase))
             {
                 return true;
             }
@@ -51,7 +51,7 @@ namespace StringLists
             Array.Reverse(charArr);
             string reversedString = new string(charArr);
 
-            if (s == reversedString)
+            if (s.Equals(reversedString,StringComparison.InvariantCultureIgnoreCase))
             {
                 return true;
             }
