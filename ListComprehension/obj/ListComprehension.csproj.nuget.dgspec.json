@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\allen\\Desktop\\CSharp\\Exercises\\Divisors\\Divisors.csproj": {}
+    "C:\\Users\\allen\\Desktop\\CSharp\\Exercises\\ListComprehension\\ListComprehension.csproj": {}
   },
   "projects": {
-    "C:\\Users\\allen\\Desktop\\CSharp\\Exercises\\Divisors\\Divisors.csproj": {
+    "C:\\Users\\allen\\Desktop\\CSharp\\Exercises\\ListComprehension\\ListComprehension.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\allen\\Desktop\\CSharp\\Exercises\\Divisors\\Divisors.csproj",
-        "projectName": "Divisors",
-        "projectPath": "C:\\Users\\allen\\Desktop\\CSharp\\Exercises\\Divisors\\Divisors.csproj",
+        "projectUniqueName": "C:\\Users\\allen\\Desktop\\CSharp\\Exercises\\ListComprehension\\ListComprehension.csproj",
+        "projectName": "ListComprehension",
+        "projectPath": "C:\\Users\\allen\\Desktop\\CSharp\\Exercises\\ListComprehension\\ListComprehension.csproj",
         "packagesPath": "C:\\Users\\allen\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\allen\\Desktop\\CSharp\\Exercises\\Divisors\\obj\\",
+        "outputPath": "C:\\Users\\allen\\Desktop\\CSharp\\Exercises\\ListComprehension\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\allen\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,0 +1,12 @@
+C:\Users\allen\Desktop\CSharp\Exercises\ListComprehension\bin\Debug\netcoreapp3.1\ListComprehension.exe
+C:\Users\allen\Desktop\CSharp\Exercises\ListComprehension\bin\Debug\netcoreapp3.1\ListComprehension.deps.json
+C:\Users\allen\Desktop\CSharp\Exercises\ListComprehension\bin\Debug\netcoreapp3.1\ListComprehension.runtimeconfig.json
+C:\Users\allen\Desktop\CSharp\Exercises\ListComprehension\bin\Debug\netcoreapp3.1\ListComprehension.runtimeconfig.dev.json
+C:\Users\allen\Desktop\CSharp\Exercises\ListComprehension\bin\Debug\netcoreapp3.1\ListComprehension.dll
+C:\Users\allen\Desktop\CSharp\Exercises\ListComprehension\bin\Debug\netcoreapp3.1\ListComprehension.pdb
+C:\Users\allen\Desktop\CSharp\Exercises\ListComprehension\obj\Debug\netcoreapp3.1\ListComprehension.AssemblyInfoInputs.cache
+C:\Users\allen\Desktop\CSharp\Exercises\ListComprehension\obj\Debug\netcoreapp3.1\ListComprehension.AssemblyInfo.cs
+C:\Users\allen\Desktop\CSharp\Exercises\ListComprehension\obj\Debug\netcoreapp3.1\ListComprehension.csproj.CoreCompileInputs.cache
+C:\Users\allen\Desktop\CSharp\Exercises\ListComprehension\obj\Debug\netcoreapp3.1\ListComprehension.dll
+C:\Users\allen\Desktop\CSharp\Exercises\ListComprehension\obj\Debug\netcoreapp3.1\ListComprehension.pdb
+C:\Users\allen\Desktop\CSharp\Exercises\ListComprehension\obj\Debug\netcoreapp3.1\ListComprehension.genruntimeconfig.cache

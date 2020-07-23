@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\allen\\Desktop\\CSharp\\Exercises\\Divisors\\Divisors.csproj",
-      "projectName": "Divisors",
-      "projectPath": "C:\\Users\\allen\\Desktop\\CSharp\\Exercises\\Divisors\\Divisors.csproj",
+      "projectUniqueName": "C:\\Users\\allen\\Desktop\\CSharp\\Exercises\\CheckPrimality_11\\CheckPrimality_11.csproj",
+      "projectName": "CheckPrimality_11",
+      "projectPath": "C:\\Users\\allen\\Desktop\\CSharp\\Exercises\\CheckPrimality_11\\CheckPrimality_11.csproj",
       "packagesPath": "C:\\Users\\allen\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\allen\\Desktop\\CSharp\\Exercises\\Divisors\\obj\\",
+      "outputPath": "C:\\Users\\allen\\Desktop\\CSharp\\Exercises\\CheckPrimality_11\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\allen\\AppData\\Roaming\\NuGet\\NuGet.Config",
