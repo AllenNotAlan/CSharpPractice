@@ -1,0 +1,13 @@
+C:\Users\allen\Desktop\CSharp\Exercises\15_ReverseWordOrder\bin\Debug\netcoreapp3.1\15_ReverseWordOrder.exe
+C:\Users\allen\Desktop\CSharp\Exercises\15_ReverseWordOrder\bin\Debug\netcoreapp3.1\15_ReverseWordOrder.deps.json
+C:\Users\allen\Desktop\CSharp\Exercises\15_ReverseWordOrder\bin\Debug\netcoreapp3.1\15_ReverseWordOrder.runtimeconfig.json
+C:\Users\allen\Desktop\CSharp\Exercises\15_ReverseWordOrder\bin\Debug\netcoreapp3.1\15_ReverseWordOrder.runtimeconfig.dev.json
+C:\Users\allen\Desktop\CSharp\Exercises\15_ReverseWordOrder\bin\Debug\netcoreapp3.1\15_ReverseWordOrder.dll
+C:\Users\allen\Desktop\CSharp\Exercises\15_ReverseWordOrder\bin\Debug\netcoreapp3.1\15_ReverseWordOrder.pdb
+C:\Users\allen\Desktop\CSharp\Exercises\15_ReverseWordOrder\obj\Debug\netcoreapp3.1\15_ReverseWordOrder.csprojAssemblyReference.cache
+C:\Users\allen\Desktop\CSharp\Exercises\15_ReverseWordOrder\obj\Debug\netcoreapp3.1\15_ReverseWordOrder.AssemblyInfoInputs.cache
+C:\Users\allen\Desktop\CSharp\Exercises\15_ReverseWordOrder\obj\Debug\netcoreapp3.1\15_ReverseWordOrder.AssemblyInfo.cs
+C:\Users\allen\Desktop\CSharp\Exercises\15_ReverseWordOrder\obj\Debug\netcoreapp3.1\15_ReverseWordOrder.csproj.CoreCompileInputs.cache
+C:\Users\allen\Desktop\CSharp\Exercises\15_ReverseWordOrder\obj\Debug\netcoreapp3.1\15_ReverseWordOrder.dll
+C:\Users\allen\Desktop\CSharp\Exercises\15_ReverseWordOrder\obj\Debug\netcoreapp3.1\15_ReverseWordOrder.pdb
+C:\Users\allen\Desktop\CSharp\Exercises\15_ReverseWordOrder\obj\Debug\netcoreapp3.1\15_ReverseWordOrder.genruntimeconfig.cache
