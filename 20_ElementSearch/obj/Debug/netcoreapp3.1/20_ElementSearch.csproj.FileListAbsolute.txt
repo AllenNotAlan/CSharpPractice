@@ -1,0 +1,13 @@
+C:\Users\allen\Desktop\CSharp\Exercises\20_ElementSearch\bin\Debug\netcoreapp3.1\20_ElementSearch.exe
+C:\Users\allen\Desktop\CSharp\Exercises\20_ElementSearch\bin\Debug\netcoreapp3.1\20_ElementSearch.deps.json
+C:\Users\allen\Desktop\CSharp\Exercises\20_ElementSearch\bin\Debug\netcoreapp3.1\20_ElementSearch.runtimeconfig.json
+C:\Users\allen\Desktop\CSharp\Exercises\20_ElementSearch\bin\Debug\netcoreapp3.1\20_ElementSearch.runtimeconfig.dev.json
+C:\Users\allen\Desktop\CSharp\Exercises\20_ElementSearch\bin\Debug\netcoreapp3.1\20_ElementSearch.dll
+C:\Users\allen\Desktop\CSharp\Exercises\20_ElementSearch\bin\Debug\netcoreapp3.1\20_ElementSearch.pdb
+C:\Users\allen\Desktop\CSharp\Exercises\20_ElementSearch\obj\Debug\netcoreapp3.1\20_ElementSearch.csprojAssemblyReference.cache
+C:\Users\allen\Desktop\CSharp\Exercises\20_ElementSearch\obj\Debug\netcoreapp3.1\20_ElementSearch.AssemblyInfoInputs.cache
+C:\Users\allen\Desktop\CSharp\Exercises\20_ElementSearch\obj\Debug\netcoreapp3.1\20_ElementSearch.AssemblyInfo.cs
+C:\Users\allen\Desktop\CSharp\Exercises\20_ElementSearch\obj\Debug\netcoreapp3.1\20_ElementSearch.csproj.CoreCompileInputs.cache
+C:\Users\allen\Desktop\CSharp\Exercises\20_ElementSearch\obj\Debug\netcoreapp3.1\20_ElementSearch.dll
+C:\Users\allen\Desktop\CSharp\Exercises\20_ElementSearch\obj\Debug\netcoreapp3.1\20_ElementSearch.pdb
+C:\Users\allen\Desktop\CSharp\Exercises\20_ElementSearch\obj\Debug\netcoreapp3.1\20_ElementSearch.genruntimeconfig.cache
