@@ -16,6 +16,10 @@ namespace _21_WriteToFile
         {
             var mainPageLinks = GetMainPageLinks("http://www.practicepython.org/");
 
+            /**
+             * Write to file doc and info at:
+             * https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/file-system/how-to-write-to-a-text-file
+             */
             using (System.IO.StreamWriter file = new System.IO.StreamWriter(@"C:\Users\allen\Desktop\CSharp\Exercises\21_WriteToFile\results.txt"))
             {
 
