@@ -1,0 +1,13 @@
+C:\Users\allen\Desktop\CSharp\Exercises\22_ReadFromFile\bin\Debug\netcoreapp3.1\22_ReadFromFile.exe
+C:\Users\allen\Desktop\CSharp\Exercises\22_ReadFromFile\bin\Debug\netcoreapp3.1\22_ReadFromFile.deps.json
+C:\Users\allen\Desktop\CSharp\Exercises\22_ReadFromFile\bin\Debug\netcoreapp3.1\22_ReadFromFile.runtimeconfig.json
+C:\Users\allen\Desktop\CSharp\Exercises\22_ReadFromFile\bin\Debug\netcoreapp3.1\22_ReadFromFile.runtimeconfig.dev.json
+C:\Users\allen\Desktop\CSharp\Exercises\22_ReadFromFile\bin\Debug\netcoreapp3.1\22_ReadFromFile.dll
+C:\Users\allen\Desktop\CSharp\Exercises\22_ReadFromFile\bin\Debug\netcoreapp3.1\22_ReadFromFile.pdb
+C:\Users\allen\Desktop\CSharp\Exercises\22_ReadFromFile\obj\Debug\netcoreapp3.1\22_ReadFromFile.csprojAssemblyReference.cache
+C:\Users\allen\Desktop\CSharp\Exercises\22_ReadFromFile\obj\Debug\netcoreapp3.1\22_ReadFromFile.AssemblyInfoInputs.cache
+C:\Users\allen\Desktop\CSharp\Exercises\22_ReadFromFile\obj\Debug\netcoreapp3.1\22_ReadFromFile.AssemblyInfo.cs
+C:\Users\allen\Desktop\CSharp\Exercises\22_ReadFromFile\obj\Debug\netcoreapp3.1\22_ReadFromFile.csproj.CoreCompileInputs.cache
+C:\Users\allen\Desktop\CSharp\Exercises\22_ReadFromFile\obj\Debug\netcoreapp3.1\22_ReadFromFile.dll
+C:\Users\allen\Desktop\CSharp\Exercises\22_ReadFromFile\obj\Debug\netcoreapp3.1\22_ReadFromFile.pdb
+C:\Users\allen\Desktop\CSharp\Exercises\22_ReadFromFile\obj\Debug\netcoreapp3.1\22_ReadFromFile.genruntimeconfig.cache
